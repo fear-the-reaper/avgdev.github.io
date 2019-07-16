@@ -86,7 +86,7 @@ footer.container-fluid.bg-dark.text-white img {
 	opacity: 1;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1000px) {
 
 	div.carousel-item.active.background img {
 		height: 500px;
